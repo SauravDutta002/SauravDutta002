@@ -28,7 +28,7 @@
 
 
 
-name: GitHub Snake Game
+name: GitHub Snake Saurav Dutta
 
 on:
   # Schedule the workflow to run daily at midnight UTC
